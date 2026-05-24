@@ -1,4 +1,4 @@
-## 🤖 AI / LLM / Agent Systems
+## ✨ AI / LLM / Agent Systems
 
 Modern patterns and production-ready frameworks for building intelligent systems.
 
@@ -11,15 +11,25 @@ Modern patterns and production-ready frameworks for building intelligent systems
 
 ---
 
-## 🧬 Bioinformatics / Scientific Data Processing
+## 🏥 Real-world Healthcare Data
 
-Making messy real-world data usable and insights discoverable.
+Making sense of messy real-world data.
 
 | Repository | Tech Stack | Description |
 |---|---|---|
 | [fhir-graph](https://github.com/ewmcc/fhir-graph) | Python, Neo4j, Docker | Explore FHIR healthcare records as a Neo4j graph database. |
+
+---
+
+## 📊 Mass Spectrometry / Bioinformatics
+
+Transform raw spectra and proteomic data into visualizations and actionable insights.
+
+| Repository | Tech Stack | Description |
+|---|---|---|
+| [mzml2peak](https://github.com/ewmcc/mzml2peak) | Python, pyteomics, lmfit, Plotly | [Model peaks from raw spectra.](https://ewmcc-mzml2peak.share.connect.posit.cloud/) |
+| [mzml2trace](https://github.com/ewmcc/mzml2trace) | Python, pyteomics, pandas, Plotly | Transform raw spectra into visualizations and structured data formats. |
 | [wiff2mzml](https://github.com/ewmcc/wiff2mzml) | Python, ProteoWizard | Convert SCIEX mass spec files to mzML - bridges proprietary data with the open science ecosystem. |
-| [mzml2peak](https://github.com/ewmcc/mzml2peak) | Python, pyteomics, pandas, Plotly | Transform raw spectra into visualizations and structured data formats. Demonstrates best practices for processing mass spectrometry data. |
 | [QuantifyR](https://github.com/ewmcc/QuantifyR) | R, tidyverse | Reproducible proteomics from raw data to insights. Demonstrates structured workflows for scientific reproducibility. |
 
 ---
