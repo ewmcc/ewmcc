@@ -1,7 +1,5 @@
 ## ✨ AI / LLM / Agent Systems
 
-Modern patterns and production-ready frameworks for building intelligent systems.
-
 | Repository | Tech Stack | Description |
 |---|---|---|
 | [bedrock-chat](https://github.com/ewmcc/bedrock-chat) | Python, Shiny, LangChain, Amazon Bedrock | [Authenticated AI chat app. 🔗](https://ewmcc-bedrock-chat.share.connect.posit.cloud) |
@@ -14,20 +12,16 @@ Modern patterns and production-ready frameworks for building intelligent systems
 
 ## 📊 Data Science
 
-Transform raw spectra and data into visualizations and actionable insights.
-
 | Repository | Tech Stack | Description |
 |---|---|---|
 | [mzml2peak](https://github.com/ewmcc/mzml2peak) | Python, pyteomics, lmfit, Plotly | [Model peaks from raw spectra. 🔗](https://ewmcc-mzml2peak.share.connect.posit.cloud) |
 | [mzml2trace](https://github.com/ewmcc/mzml2trace) | Python, pyteomics, pandas, Plotly | Transform raw spectra into visualizations and structured data formats. |
 | [wiff2mzml](https://github.com/ewmcc/wiff2mzml) | Python, ProteoWizard | Convert SCIEX mass spec files to mzML - bridges proprietary data with the open science ecosystem. |
-| [QuantifyR](https://github.com/ewmcc/QuantifyR) | R, tidyverse | Reproducible proteomics from raw data to insights. Demonstrates structured workflows for scientific reproducibility. |
+| [QuantifyR](https://github.com/ewmcc/QuantifyR) | R, tidyverse | Reproducible proteomics from raw data to insights. [Demonstrates structured workflows for scientific reproducibility. 🔗](https://hickslab.github.io/QuantifyR) |
 
 ---
 
 ## 🏥 Real-World Data
-
-Making sense of messy real-world healthcare data.
 
 | Repository | Tech Stack | Description |
 |---|---|---|
@@ -36,8 +30,6 @@ Making sense of messy real-world healthcare data.
 ---
 
 ## 🌐 Personal
-
-Seeing what's possible.
 
 | Repository | Tech Stack | Description |
 |---|---|---|
