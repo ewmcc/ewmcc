@@ -10,6 +10,14 @@
 
 ---
 
+## 🤖 Machine Learning
+
+| Repository | Tech Stack | Description |
+|---|---|---|
+| [tadm-classifier](https://github.com/ewmcc/tadm-classifier) | Python, pandas, pyodbc, scikit-learn (planned) | Tools for loading, exploring, and visualizing Hamilton TADM pressure curves alongside gravimetric weights. Long-term goal: train a classifier that predicts pipetting quality from pressure waveform shape. |
+
+---
+
 ## 📊 Data Science
 
 | Repository | Tech Stack | Description |
